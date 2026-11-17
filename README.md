@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Data Connectors
+
+**Embryo Data Connectors** is Embryo-Zero's fork of [meltano](https://github.com/meltano/meltano), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div align="center">
   <picture align="center" width="600">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/dbeb107f-20ad-43d0-af9c-f51b97f95e04">
